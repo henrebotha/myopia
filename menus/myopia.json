@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle myopia",
+        "command": "myopia:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "myopia",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "myopia:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
