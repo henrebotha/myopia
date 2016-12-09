@@ -2,13 +2,13 @@
   "name": "myopia",
   "main": "./lib/myopia",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Edit a section of a file in a dedicated buffer",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "myopia:toggle"
   },
-  "repository": "https://github.com/atom/myopia",
+  "repository": "https://github.com/henrebotha/myopia",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
